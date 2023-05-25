@@ -24,7 +24,7 @@ Logo recommendation result is save to output.csv.
 </code></pre>
 
 1. Output.csv File
-   - The file named Output.csv contains the names of the images and their corresponding recommendation scores, sorted in descending order. Higher recommendation scores indicate logos that are recommended with higher priority.
+   - The file named Output.csv contains the names of the images and their corresponding recommendation scores, sorted in descending order. Higher recommendation scores indicate logos that are recommended with higher priority. The example_output.csv file in github is the example format of output.csv.
 
 2. Execution Time
    - Upon termination of the executable file, the execution time is displayed. The execution time per image is calculated by dividing the total execution time by the number of images.
